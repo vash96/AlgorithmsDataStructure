@@ -1,0 +1,7 @@
+graph/*
+input/*
+output/*
+misurazioni/tempi/*
+
+*.txt
+*.xlsx
